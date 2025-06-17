@@ -6,7 +6,7 @@
 #1900: chia hết cho 100 nhưng không chia hết cho 400 →  không phải năm nhuận
 #2000: chia hết cho 400 →  năm nhuận
 
-#bài 4:Kiểm tra năm nhuận
+#bài 3:Kiểm tra năm nhuận
 year= int(input("Nhập năm: "))
 
 if year <= 0:
